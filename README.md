@@ -22,7 +22,7 @@ _GitHub Copilot can help you code by offering autocomplete-style suggestions rig
 <!--
   <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  Define terms and link to docs.github.com..
 -->
 
 ## Step 3: View the GitHub Copilot tab with multiple suggestions
